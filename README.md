@@ -1,1 +1,2 @@
-# list-fav-animanga
+# List Fav-Animanga
+Your personal anime list web app!
