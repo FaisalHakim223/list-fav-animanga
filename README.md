@@ -1,2 +1,2 @@
-# List Fav-Animanga
-Your personal anime list web app!
+# List Fav Animanga
+Daftar anime dan manga favorit kamu 🎌
